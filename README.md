@@ -11,7 +11,7 @@
 
 - Hello, and welcome to my GitHub profile! My name is Jimmy Hui, and I am a Fourth-year computer science student studying at Simon Fraser University.
 
-- I have front-end and back-end experience in web development, and I am currently learning about distributed systems, database systems, AI, and nextJS. 
+- I am currently learning about distributed systems, database systems, AI, and web development (nextJS). 
 
 <br>
 
