@@ -9,9 +9,9 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Jimmy Hui, and I am a third-year computer science student studying at Simon Fraser University.
+- Hello, and welcome to my GitHub profile! My name is Jimmy Hui, and I am a Fourth-year computer science student studying at Simon Fraser University.
 
-- I have front-end and back-end experience in web development, and I am currently learning about software testing, quality assurance, and front-end development. 
+- I have front-end and back-end experience in web development, and I am currently learning about distributed systems, database systems, AI, and nextJS. 
 
 <br>
 
@@ -20,6 +20,7 @@
 - https://chat-through-history.onrender.com/
 - https://github.com/Jinnbo/Journey-Through-Mordor
 - https://github.com/Jinnbo/Discord-Bot
+- https://github.com/Jinnbo/EEG-Classifier
 
 <br>
 
